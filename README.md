@@ -1,6 +1,6 @@
 # Cheerio
 
-TODO: Write a gem description
+This gem adds personality to your application in commonly needed places. This includes a significant list of salutations and valedictions, perfect for sign-in and sign-out flash messages respectively.
 
 ## Installation
 
