@@ -10,4 +10,10 @@ describe Cheerio do
     valedication = Cheerio.goodbye
     valedication.should_not be_nil
   end
+
+  it "supports multiple language locales" do
+    Cheerio.locale = :es
+    salutation_in_spanish = Cheerio.hello
+    salutation_in_spanish.should_not be_nil 
+  end
 end
