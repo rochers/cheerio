@@ -18,7 +18,15 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+By default hellos and goodbyes are in English. For example, to get a hello, you can simply make a call to hello:
+
+    > Cheerio.hello
+    => "Why hello there." 
+    
+Similarly, you can ask for a goodbye:
+
+    > Cheerio.goodbye
+    => "Have a great day." 
 
 ## Contributing
 
