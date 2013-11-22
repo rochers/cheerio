@@ -26,7 +26,13 @@ By default hellos and goodbyes are in English. For example, to get a hello, you 
 Similarly, you can ask for a goodbye:
 
     > Cheerio.goodbye
-    => "Have a great day." 
+    => "Have a great day."
+    
+Currently, Cheerio supports two language locales (English and Spanish). Cheerio's default is English, but to set your locale to Spanish:
+
+    > Cheerio.locale = :es
+    > Cheerio.hello
+    => "Hola."
 
 ## Contributing
 
