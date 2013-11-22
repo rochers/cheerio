@@ -2,6 +2,8 @@
 
 This gem adds personality to your application in commonly needed places. This includes a significant list of salutations and valedictions, perfect for sign-in and sign-out flash messages respectively.
 
+[![Build Status](https://travis-ci.org/rochers/cheerio.png?branch=master)](https://travis-ci.org/rochers/cheerio)
+
 ## Installation
 
 Add this line to your application's Gemfile:
