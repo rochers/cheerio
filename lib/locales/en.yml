@@ -6,6 +6,7 @@ en:
     - "You're swell."
     - "You've done well."
     - "We're impressed by you."
+    - "Lookin' majestic, like a lion."
   salutations:
     - "Greetings"
     - "Welcome."
@@ -18,6 +19,7 @@ en:
     - "Well hello!"
     - "What's up?"
     - "Why hello there."
+    - "Was there a break out at the zoo? Cuz your hair is a mane of yellow locks."
   valedictations:
     - "Bye!"
     - "Farewell"
@@ -29,3 +31,4 @@ en:
     - "See you soon!"
     - "Take care."
     - "Until next time."
+    - "I'll miss your flowin' locks, Simba."
